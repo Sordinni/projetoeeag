@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/projetoeeag/static/css/main.424c1df0.css",
     "main.js": "/projetoeeag/static/js/main.dac1cfe7.js",
     "index.html": "/projetoeeag/index.html",
+    "main.424c1df0.css.map": "/projetoeeag/static/css/main.424c1df0.css.map",
     "main.dac1cfe7.js.map": "/projetoeeag/static/js/main.dac1cfe7.js.map"
   },
   "entrypoints": [
+    "static/css/main.424c1df0.css",
     "static/js/main.dac1cfe7.js"
   ]
 }
